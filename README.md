@@ -29,5 +29,5 @@ Please [fork away](https://github.com/svc-io/io.svc.security/fork_select) & star
 Also note that [github issues](https://github.com/svc-io/io.svc.security/issues) are not (just) for issues. 
 A more positive name for it would be "hey, what do you & the rest of the universe think of this?" 
 or more url-friendly: "hey".
-Anyway, I have created a 'discussion' label for you to say hey (just love hey-sayers).
+Anyway, I have created a 'discussion' label for the hey-sayers.
 
