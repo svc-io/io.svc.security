@@ -3,12 +3,13 @@ io.svc.security
 
 Scala security library. Or: **the quest for the real meaning of security**.
 
-I guess some more info will need to be added here, but I'll leave that for later.
-
 Here are some points to get you started:
 
+* [Presentation of the pattern that is used in this library](http://blog.rintcius.nl/post/di-on-steroids-with-scala-value-injection-on-traits.html)
 * [`authentication`](https://github.com/svc-io/io.svc.security/blob/master/src/main/scala/io/svc/security/authentication.scala) object
 * [Play binding](https://github.com/svc-io/io.svc.security.play) plus a [play demo app](https://github.com/svc-io/io.svc.security.play.demo)
+
+I guess some more info will need to be added here, but I'll leave that for later.
 
 TODO
 ----
